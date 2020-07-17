@@ -1,0 +1,13 @@
+{
+    "plugins": ["fontsettings","collapsible-chapters"],
+    "pluginsConfig": {
+        "fontsettings": {
+            "size": 1
+        },
+	"collapsible-chapters":{}
+    },  
+    "pdf":
+    {
+        "fontSize": 9
+    }
+}

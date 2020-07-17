@@ -1,0 +1,12 @@
+# Parsing Ops
+
+## Summary
+
+---
+
+Source link : [https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_parsing\_op.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_parsing_op.cpp)
+
+symbol block image 
+
+![](/assets/tf_parsing_op_symbols.png)
+
