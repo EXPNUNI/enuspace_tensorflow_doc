@@ -1,3 +1,12 @@
+---
+layout: default
+title: enuSpace-Tensorflow Overview
+nav_order: a
+description: "Overview page"
+permalink: /
+last_modified_date: 2020-04-27T17:54:08+0000
+---
+
 # enuSpace-Tensorflow Overview
 
 enuSpaceTensorflow는 enuSpace에서 외부 external plugin 모듈 tensorflow를 로직 블럭\(block\)형태로 플로우 프로그래밍을 제공합니다.
