@@ -22,7 +22,7 @@ using namespace ops;
 Scope root =Scope::NewRootScope();
 auto c1 =Const(root,{{1,1}});
 num = {41},{1}
-auto m =MatMul(root, c1, {num});
+auto m =MatMul(% root, c1, {{41}, {1}} %);
 GraphDef gdef;
 Status s = root.ToGraphDef(&gdef);
 if(!s.ok()){...}
