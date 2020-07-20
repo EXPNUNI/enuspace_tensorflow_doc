@@ -22,7 +22,7 @@ auto c =Add(root, a,{41});
 ClientSession session(root);
 std::vector outputs;
 
-Status s = session.Run({{a,{1}}},{c},&outputs);
+Status s = session.Run({{{a},{1}},{c},&outputs);
 if(!s.ok()){...}
 ```
 
