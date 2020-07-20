@@ -4,7 +4,7 @@ title: enuSpace-Tensorflow Overview
 nav_order: a
 description: "Overview page"
 permalink: /
-last_modified_date: 2020-05-27T17:54:08+0000
+last_modified_date: now
 ---
 
 # enuSpace-Tensorflow Overview
