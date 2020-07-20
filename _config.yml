@@ -110,4 +110,4 @@ compress_html:
   blanklines: false
   profile: false
 
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs
