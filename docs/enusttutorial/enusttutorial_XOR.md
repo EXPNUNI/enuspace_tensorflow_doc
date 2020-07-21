@@ -17,7 +17,7 @@ Python 참고 : [http://blog.aloni.org/posts/backprop-with-tensorflow/](http://b
 
 ### XOR Dataset
 
-![](/assets/tutorial/xor_dataset.png)
+![](/docs/assets/tutorial/xor_dataset.png)
 
 ### Model 1
 
