@@ -1,3 +1,9 @@
+---
+layout: default
+title: enuSpace-Tensorflow Tutorial
+nav_order: c
+last_modified_date: now
+---
 # enuSpace-Tensorflow Tutorial
 
 ---
