@@ -1,3 +1,9 @@
+---
+layout: default
+title: enuSpace-Tensorflow Installation
+nav_order: b
+last_modified_date: now
+---
 # enuSpace-Tensorflow Installation
 
 ---
