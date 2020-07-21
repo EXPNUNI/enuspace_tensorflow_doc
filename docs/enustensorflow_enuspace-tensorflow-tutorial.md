@@ -21,7 +21,7 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/gradient_descent)
 
-![](/assets/tutorial/gradient_descent_multi.png)
+![](./assets/tutorial/gradient_descent_multi.png)
 
 ---
 
@@ -31,11 +31,11 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 #### Train Model
 
-훈련 모델![](/assets/enuspace-tensorflow-mnist-train.png)
+훈련 모델![](./assets/enuspace-tensorflow-mnist-train.png)
 
 #### Evaluation Model
 
-평가용 모델![](/assets/enuspace-tensorflow-mnist-eval.png)
+평가용 모델![](./assets/enuspace-tensorflow-mnist-eval.png)
 
 ---
 
@@ -43,5 +43,5 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/xor)
 
-![](/assets/tutorial/xor_runtime.png)
+![](./assets/tutorial/xor_runtime.png)
 
