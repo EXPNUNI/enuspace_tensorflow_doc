@@ -1,7 +1,7 @@
 --- 
 layout: default 
 title: XOR 
-parent: enuSpace-TensorflowTutorial 
+parent: enuSpace-Tensorflow Tutorial
 last_modified_date: now 
 --- 
 
