@@ -1,9 +1,8 @@
 ---
 layout: default
-title: enuSpace-Tensorflow API 
-nav_order: c
+title: enuSpace-Tensorflow Tutorial
+nav_order: d
 last_modified_date: now
-
 ---
 ---
 
