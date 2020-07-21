@@ -11,9 +11,9 @@ last_modified_date: now
 
 enuSpaceTensorflow는 enuSpace에서 외부 external plugin 모듈 tensorflow를 로직 블럭\(block\)형태로 플로우 프로그래밍을 제공합니다.
 
-![](/assets/enuSpaceTensorflow_plugin.png)![](/assets/enuspace_tensorflow_runtime.png)
+![](./assets/enuSpaceTensorflow_plugin.png)![](./assets/enuspace_tensorflow_runtime.png)
 
-![](/assets/enuspace-tensorflow-mnist-train.png)
+![](./assets/enuspace-tensorflow-mnist-train.png)
 
 enuSpaceTensorflow github : [https://github.com/EXPNUNI/enuSpaceTensorflow](https://github.com/EXPNUNI/enuSpaceTensorflow)
 
@@ -56,5 +56,5 @@ int main()
 
 enuSpaceTensorflow를 이용하면 로직블럭을 이용하여 아래 그림과 같이 블럭\(block\)으로 프로그래밍을 수행할 수 있습니다.
 
-![](/assets/enuSpaceTensorflow.png)
+![](./assets/enuSpaceTensorflow.png)
 
