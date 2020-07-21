@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Arrayops 
+title: arrayops 
 parent: enuSpace-Tensorflow API 
 has_children: true 
 last_modified_date: now 

@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Methods 
+title: methods 
 parent: enuSpace-Tensorflow API 
 has_children: true 
 last_modified_date: now 

@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Nn Ops 
+title: nn_ops 
 parent: enuSpace-Tensorflow API 
 has_children: true 
 last_modified_date: now 

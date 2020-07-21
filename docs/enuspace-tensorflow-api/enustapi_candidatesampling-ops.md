@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Candidatesampling Ops 
+title: candidatesampling_ops 
 parent: enuSpace-Tensorflow API 
 has_children: true 
 last_modified_date: now 

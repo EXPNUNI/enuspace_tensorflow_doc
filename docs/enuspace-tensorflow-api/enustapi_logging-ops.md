@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Logging Ops 
+title: logging_ops 
 parent: enuSpace-Tensorflow API 
 has_children: true 
 last_modified_date: now 
