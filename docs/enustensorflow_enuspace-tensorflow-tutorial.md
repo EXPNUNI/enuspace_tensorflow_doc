@@ -2,6 +2,7 @@
 layout: default
 title: enuSpace-Tensorflow Tutorial
 nav_order: c
+has_children: true
 last_modified_date: now
 ---
 # enuSpace-Tensorflow Tutorial
