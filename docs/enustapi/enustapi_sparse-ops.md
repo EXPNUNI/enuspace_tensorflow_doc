@@ -16,5 +16,5 @@ Source link : [https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpac
 
 symbol block image 
 
-![](./assets/tf_sparse_ops_symbols1.png)![](/assets/tf_sparse_ops_symbols2.png)
+![](./assets/tf_sparse_ops_symbols1.png)![](./assets/tf_sparse_ops_symbols2.png)
 
