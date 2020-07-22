@@ -104,7 +104,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/gathernd1.png)
+![](../assets/array_ops/gathernd1.png)
 
 Argument:
 
@@ -124,6 +124,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/gathernd2.png)![](./assets/array_ops/gatherND설명.png)  
+![](../assets/array_ops/gathernd2.png)![](../assets/array_ops/gatherND설명.png)  
 ※ 위의 그림처럼 params가 다 차원 일때 indices의 index에 따라 params의 값을 가져온다. 
 

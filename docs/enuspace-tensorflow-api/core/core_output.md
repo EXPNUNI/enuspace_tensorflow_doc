@@ -102,7 +102,7 @@ DataType type() const
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/output_block.png)
+![](../assets/core/output_block.png)
 
 Argument:
 
@@ -117,7 +117,7 @@ Output:
 
 ## UsingMethod
 
-![](./assets/core/output1.png)※ Add 블럭의 output을 Output블럭으로 받아서 clientsession에 넘겨주고, 결과값을 받은 화면
+![](../assets/core/output1.png)※ Add 블럭의 output을 Output블럭으로 받아서 clientsession에 넘겨주고, 결과값을 받은 화면
 
-![](./assets/core/output2.png)※ Add블럭의 output을 operation에 연결한뒤 다시 output 블럭에 연결하여 ClientSession에 연결하여 실행한 화면
+![](../assets/core/output2.png)※ Add블럭의 output을 operation에 연결한뒤 다시 output 블럭에 연결하여 ClientSession에 연결하여 실행한 화면
 

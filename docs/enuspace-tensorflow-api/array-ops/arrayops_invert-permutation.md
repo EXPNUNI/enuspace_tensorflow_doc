@@ -49,7 +49,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/invertpermutation1.png)
+![](../assets/array_ops/invertpermutation1.png)
 
 Argument:
 
@@ -68,7 +68,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/invertpermutation2.png)
+![](../assets/array_ops/invertpermutation2.png)
 
 * X에 들어있는 값과 인덱스를 서로 바꾸어서 표현한다. x = \[1, 4, 3, 0, 2\]  --&gt; y = \[3, 0, 4, 2, 1\]. 인덱스: x = \[0, 1, 2, 3, 4\] y = \[0, 1, 2, 3, 4\]
 

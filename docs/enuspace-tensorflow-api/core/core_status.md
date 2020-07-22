@@ -151,7 +151,7 @@ Status OK()
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/status1.png)
+![](../assets/core/status1.png)
 
 Argument:
 

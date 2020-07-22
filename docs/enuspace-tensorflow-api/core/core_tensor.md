@@ -624,7 +624,7 @@ Const versions of all the methods above.
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/tensor1.png)
+![](../assets/core/tensor1.png)
 
 Argument:
 
@@ -639,7 +639,7 @@ Output:
 
 ## UsingMethod
 
-![](./assets/core/tensor2.png)※ tensor를 input에 연결하여 사용하는 화면
+![](../assets/core/tensor2.png)※ tensor를 input에 연결하여 사용하는 화면
 
-![](./assets/core/tensor3.png)※ tensor를 input::initializer에 연결하여 placeholder를 초기화 하는데 사용하는 화면
+![](../assets/core/tensor3.png)※ tensor를 input::initializer에 연결하여 placeholder를 초기화 하는데 사용하는 화면
 

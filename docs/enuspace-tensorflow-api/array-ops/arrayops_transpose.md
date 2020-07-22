@@ -61,7 +61,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/transpose1.png)
+![](../assets/array_ops/transpose1.png)
 
 Argument:
 
@@ -81,6 +81,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/transpose2.png)  
+![](../assets/array_ops/transpose2.png)  
 ※ 차원을 바꾸는 역할을 한다. 파이썬에서 쓰는것과 달리 `perm`에 아무것도 없으면 에러가 난다. x는 차원을 바꿀 tensor를 넣으면 되고, perm은 바꿀 차원의 순서를 index로 넣으면 된다.
 

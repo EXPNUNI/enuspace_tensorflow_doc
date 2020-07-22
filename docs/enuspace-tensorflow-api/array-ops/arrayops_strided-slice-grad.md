@@ -38,7 +38,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/stridedslicegrad1.png)
+![](../assets/array_ops/stridedslicegrad1.png)
 
 Argument:
 
@@ -67,5 +67,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/stridedslicegrad2.png)※ dy로 들어온 tensor를 잘라서 shape에 들어온 값의 모양으로 만들어진 tensor에 집어 넣는다. end에서 begin을 뺀 값은 dy의 shape와 같아햐하며\(예를 들어 dy의 shape가 \[4, 3\] 이라면 begin의 shape는 \[2\]이고 값은 \[0, 1\] end의 shape는 \[2\] 값은 \[4, 4\]가 되어야 한다.\) shape 핀에 들어온 값은 이보다 크거나 같아야한다.
+![](../assets/array_ops/stridedslicegrad2.png)※ dy로 들어온 tensor를 잘라서 shape에 들어온 값의 모양으로 만들어진 tensor에 집어 넣는다. end에서 begin을 뺀 값은 dy의 shape와 같아햐하며\(예를 들어 dy의 shape가 \[4, 3\] 이라면 begin의 shape는 \[2\]이고 값은 \[0, 1\] end의 shape는 \[2\] 값은 \[4, 4\]가 되어야 한다.\) shape 핀에 들어온 값은 이보다 크거나 같아야한다.
 

@@ -34,7 +34,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/identity1.png)
+![](../assets/array_ops/identity1.png)
 
 Argument:
 
@@ -53,7 +53,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/identity2.png)※ input에 입력한 tensor와 동일한 tensor를 output으로 내보낸다.
+![](../assets/array_ops/identity2.png)※ input에 입력한 tensor와 동일한 tensor를 output으로 내보낸다.
 
 
 

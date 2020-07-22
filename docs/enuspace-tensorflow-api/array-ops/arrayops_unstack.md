@@ -47,7 +47,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/unstack1.png)
+![](../assets/array_ops/unstack1.png)
 
 Argument:
 
@@ -69,8 +69,8 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/unstack2.png)  
-![](./assets/array_ops/unstack3.png)  
-![](./assets/array_ops/unstack4.png)  
+![](../assets/array_ops/unstack2.png)  
+![](../assets/array_ops/unstack3.png)  
+![](../assets/array_ops/unstack4.png)  
 ※ stack과 반대의 기능을 한다. value에서 axis에 해당하는 차원을 빼내는 것이다. num의 값은 axis에 해당하는 차원의 size를 입력한다. num의 값이 size와 다르면 에러가 난다.
 

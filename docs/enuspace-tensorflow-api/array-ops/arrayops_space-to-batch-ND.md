@@ -82,7 +82,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/spacetobatchnd1.png)
+![](../assets/array_ops/spacetobatchnd1.png)
 
 Argument:
 
@@ -103,6 +103,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/spacetobatchnd2.png)  
+![](../assets/array_ops/spacetobatchnd2.png)  
 ※ N차원의 input 을 재배치하는 기능을 한다. summary의 공식대로 진행된다.
 

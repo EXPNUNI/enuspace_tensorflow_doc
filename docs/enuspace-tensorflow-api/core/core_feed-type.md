@@ -30,7 +30,7 @@ Clientsession에서 실행 우선순위는 FeedType이 run\(fetch\_outputs\)보�
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/feedtype1.png)
+![](../assets/core/feedtype1.png)
 
 Argument:
 
@@ -46,5 +46,5 @@ Output:
 
 ## UsingMethod
 
-![](./assets/array_ops/placeholder2.png)※ input\_initializer, placeholder를 연결하여 clientsession의 FeedType연결하여 사용하는 경우
+![](../assets/array_ops/placeholder2.png)※ input\_initializer, placeholder를 연결하여 clientsession의 FeedType연결하여 사용하는 경우
 

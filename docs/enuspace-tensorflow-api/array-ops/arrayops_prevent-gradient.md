@@ -43,7 +43,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/preventgradient1.png)
+![](../assets/array_ops/preventgradient1.png)
 
 Argument:
 
@@ -64,5 +64,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/preventgradient2.png)※ Gradient기능을 사용하기 전에 버그를 검출하는 역할을 한다.
+![](../assets/array_ops/preventgradient2.png)※ Gradient기능을 사용하기 전에 버그를 검출하는 역할을 한다.
 

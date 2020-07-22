@@ -68,7 +68,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/scatterndnonaliasingadd1.png)
+![](../assets/array_ops/scatterndnonaliasingadd1.png)
 
 Argument:
 
@@ -89,7 +89,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/scatterndnonaliasingadd2.png)  
+![](../assets/array_ops/scatterndnonaliasingadd2.png)  
 ※ update의 데이터를 indices에 있는 인덱스 순서대로 input tensor에 있는 값에 더한다.  
 ※ input의 shape는 indices의 shape에서 -1 rank한 값과 update의 shape값을 랭크 별로 더한 shape이다. \(ex: indice의 shape는 \[2,1\]이고, update의 shape가 \[2,4,4\]라면 -&gt; \[2\] + \[2,4,4\] = \[4,4,4\] \)
 

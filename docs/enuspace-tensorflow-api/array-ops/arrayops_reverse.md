@@ -70,7 +70,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/reverse1.png)
+![](../assets/array_ops/reverse1.png)
 
 Argument:
 
@@ -90,5 +90,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/reverse.png)※ reverse에서 axis핀은 1-D tensor이고, 몇번째 차원을 뒤집을 것인지 선택하는 역할이다. 따라서 0차원은 scalar값 이므로  0이라는 값은 axis에 들어갈 수 없다.
+![](../assets/array_ops/reverse.png)※ reverse에서 axis핀은 1-D tensor이고, 몇번째 차원을 뒤집을 것인지 선택하는 역할이다. 따라서 0차원은 scalar값 이므로  0이라는 값은 axis에 들어갈 수 없다.
 

@@ -91,7 +91,7 @@ x = \[\[\[1\],   \[2\],  \[3\],  \[4\]\],
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/batchtospace1.png)
+![](../assets/array_ops/batchtospace1.png)
 
 Argument:
 
@@ -119,5 +119,5 @@ Result:
 
 ## Using Method {#using-method}
 
-![](./assets/array_ops/batchtospace2.png)※ input을 재배치할때 쓰는 기능이다. 위의 공식대로 shape가 결정되며 depth는 input과 output이 동일하다.
+![](../assets/array_ops/batchtospace2.png)※ input을 재배치할때 쓰는 기능이다. 위의 공식대로 shape가 결정되며 depth는 input과 output이 동일하다.
 

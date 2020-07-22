@@ -136,7 +136,7 @@ Use run\_options to turn on performance profiling.
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/clientsession1.png)
+![](../assets/core/clientsession1.png)
 
 Argument:
 
@@ -149,5 +149,5 @@ Argument:
 
 ## Using Method {#using-method}
 
-![](./assets/core/clientsession2.png)
+![](../assets/core/clientsession2.png)
 

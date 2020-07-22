@@ -74,7 +74,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/spacetodepth1.png)
+![](../assets/array_ops/spacetodepth1.png)
 
 Argument:
 
@@ -94,6 +94,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/spacetodepth2.png)  
+![](../assets/array_ops/spacetodepth2.png)  
 ※ [DepthToSpace](https://www.tensorflow.org/api_docs/cc/class/tensorflow/ops/depth-to-space.html#classtensorflow_1_1ops_1_1_depth_to_space) 의 reverse 기능이며 위의 공식대로 동작한다.
 

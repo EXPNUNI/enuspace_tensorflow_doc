@@ -42,7 +42,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/size1.png)
+![](../assets/array_ops/size1.png)
 
 Argument:
 
@@ -63,5 +63,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/size2.png)※ input으로 들어온 tensor의 value의 갯수를 알려준다.
+![](../assets/array_ops/size2.png)※ input으로 들어온 tensor의 value의 갯수를 알려준다.
 

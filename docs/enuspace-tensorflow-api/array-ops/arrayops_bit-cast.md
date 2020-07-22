@@ -38,7 +38,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/bitcast1.png)
+![](../assets/array_ops/bitcast1.png)
 
 Argument:
 
@@ -58,9 +58,9 @@ Result:
 
 ## Using Method {#using-method}
 
-![](./assets/array_ops/bitcast2.png)
+![](../assets/array_ops/bitcast2.png)
 
-![](./assets/array_ops/bitcast3.png)  
+![](../assets/array_ops/bitcast3.png)  
 ※ input tensor의 타입을 변경해주는 역할을 한다. 다만 다른 타입으로 변경할 때 데이터는 복사 되지 않는다. 같은 타입일 경우는 데이터까지 복사된다\(이럴경우 이기능이 의미가없다.\).
 
 

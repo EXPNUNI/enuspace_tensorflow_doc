@@ -52,7 +52,7 @@ Returns:
 
 Source link : [https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_candidate\_sampling\_ops.cpp](https://github.com/EXPNUNI/enuSpace-Tensorflow/blob/master/enuSpaceTensorflow/tf_candidate_sampling_ops.cpp)
 
-![](./assets/candidate_sampling_ops/UniformCandidateSampler1.png)
+![](../assets/candidate_sampling_ops/UniformCandidateSampler1.png)
 
 Argument:
 

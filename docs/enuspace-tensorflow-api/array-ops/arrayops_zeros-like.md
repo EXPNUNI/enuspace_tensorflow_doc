@@ -42,7 +42,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/zeroslike1.png)
+![](../assets/array_ops/zeroslike1.png)
 
 Argument:
 
@@ -61,6 +61,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/zeroslike2.png)  
+![](../assets/array_ops/zeroslike2.png)  
 ※ x로 들어온 모든 값을 0으로 만든다. 위 그림에서는 들어온 tensor의 type이 boolean타입이므로 모든 값이 false로 바뀐다.
 

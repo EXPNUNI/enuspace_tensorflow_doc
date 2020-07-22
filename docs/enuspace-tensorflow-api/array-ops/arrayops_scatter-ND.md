@@ -80,7 +80,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/scatternd1.png)
+![](../assets/array_ops/scatternd1.png)
 
 Argument:
 
@@ -101,7 +101,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/scatternd2.png)  
+![](../assets/array_ops/scatternd2.png)  
 ※ update의 데이터를 indices에 있는 인덱스 순서대로 shape입력 값의 모양으로 된 텐서에 입력한다. 이때 빈칸은 0으로 채운다.
 
 ※ shape 입력 값은 indices의 shape에서 -1 rank한 값과 update의 shape값을 랭크 별로 더한 값이다. \(ex: indice의 shape는 \[2,1\]이고, update의 shape가 \[2,4,4\]라면 -&gt; \[2\] + \[2,4,4\] = \[4,4,4\] \)

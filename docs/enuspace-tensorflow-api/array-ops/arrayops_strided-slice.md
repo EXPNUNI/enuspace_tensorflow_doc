@@ -81,7 +81,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/stridedslice1.png)
+![](../assets/array_ops/stridedslice1.png)
 
 Argument:
 
@@ -109,5 +109,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/stridedslice2.png)※input에서 특정한 부분을 잘라내는 기능을 한다. begin은 각 차원에서 잘라낼 시작지점\(마이너스 값일 경우 reverse시키는것으로 보임\), end는 어디까지 자를것인지 입력한다. strides는 몇 스텝을 이동할 것인지 정한다\(ex: strides가 2일 경우 시작인 1에서 두칸 넘어간 3 그다음은 5 이런식이다.\).
+![](../assets/array_ops/stridedslice2.png)※input에서 특정한 부분을 잘라내는 기능을 한다. begin은 각 차원에서 잘라낼 시작지점\(마이너스 값일 경우 reverse시키는것으로 보임\), end는 어디까지 자를것인지 입력한다. strides는 몇 스텝을 이동할 것인지 정한다\(ex: strides가 2일 경우 시작인 1에서 두칸 넘어간 3 그다음은 5 이런식이다.\).
 

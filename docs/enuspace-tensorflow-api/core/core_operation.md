@@ -106,7 +106,7 @@ DataType output_type(
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/operation1.png)
+![](../assets/core/operation1.png)
 
 Argument:
 
@@ -120,7 +120,7 @@ Output:
 
 ## UsingMethod
 
-![](./assets/core/output2.png)※ Add블럭의 결과물을 operation에 연결한뒤 다시 output 블럭에 연결하여 ClientSession에 연결하여 실행한 화면
+![](../assets/core/output2.png)※ Add블럭의 결과물을 operation에 연결한뒤 다시 output 블럭에 연결하여 ClientSession에 연결하여 실행한 화면
 
 ※ 참고로 Operation은 ClientSession의 run\(run\_outputs\) 핀에 연결할 수 있으나 결과값은 나오지 않는다.
 

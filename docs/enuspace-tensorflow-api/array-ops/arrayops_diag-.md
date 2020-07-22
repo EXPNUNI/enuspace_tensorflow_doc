@@ -47,7 +47,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/diag1.png)
+![](../assets/array_ops/diag1.png)
 
 Argument:
 
@@ -66,7 +66,7 @@ Result:
 
 ## Using Method {#using-method}
 
-##### ![](./assets/array_ops/diag2.png)
+##### ![](../assets/array_ops/diag2.png)
 
 ※ Rank를 늘려주는 역할을 한다.
 

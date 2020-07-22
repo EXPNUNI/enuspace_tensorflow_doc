@@ -38,7 +38,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/tile1.png)
+![](../assets/array_ops/tile1.png)
 
 Argument:
 
@@ -58,5 +58,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/tile2.png)※ input을 화장실 타일 깔듯이 여러개 셋팅하는 기능이다. multiples로 각 차원에 몇번 셋팅 할 것인지 정한다.
+![](../assets/array_ops/tile2.png)※ input을 화장실 타일 깔듯이 여러개 셋팅하는 기능이다. multiples로 각 차원에 몇번 셋팅 할 것인지 정한다.
 

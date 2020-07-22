@@ -75,7 +75,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/reversesequence1.png)
+![](../assets/array_ops/reversesequence1.png)
 
 Argument:
 
@@ -96,7 +96,7 @@ Result:
 
 ## UsingMethod
 
-![](./assets/array_ops/reversesequence2.png)※seq\_dim:대당하는차원에대해부분적으로반전을시킨다.\(ex:input이이고,seq\_dim=1,seq\_lengths={1,2}라면결과값은이된다.\)
+![](../assets/array_ops/reversesequence2.png)※seq\_dim:대당하는차원에대해부분적으로반전을시킨다.\(ex:input이이고,seq\_dim=1,seq\_lengths={1,2}라면결과값은이된다.\)
 
 ※attr의batch\_dim:반전을시키는차원을지정한다.1이면1차원,0이면영향을주지않는다.\(0일경우오직seq\_dim에의해영향을받음
 

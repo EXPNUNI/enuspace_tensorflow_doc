@@ -66,7 +66,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/where1.png)
+![](../assets/array_ops/where1.png)
 
 Argument:
 
@@ -85,6 +85,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/where2.png)  
+![](../assets/array_ops/where2.png)  
 ※ condition에서 값이 참인 곳을 찾아서 index로 내보낸다. 위 그림에서 condition의 값이 참인 경우가 5개 이고 3-RANK tensor이므로 결과의 shape는 {5, 3}이 되고, 각각의 위치를 나타낸다.
 

@@ -55,7 +55,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/mirrorpad1.png)
+![](../assets/array_ops/mirrorpad1.png)
 
 Argument:
 
@@ -76,7 +76,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/mirrorpad2.png)※input의 shape가 \[2\]\[3\], 값이 \[\[1,2,3\]\[4,5,6\]\]이고, paddings가 \[2\]\[2\]에 \[\[0,0\]\[2,2\]\], mode가 "SYMMETRIC"일 때 결과는 \[\[2,1,1,2,3,3,2\]\[5,4,4,5,6,6,5\]\]이다. mode가 "REFLECT"일 때 결과는 \[\[3,2,1,2,3,2,1\]\[6,5,4,5,6,5,4\]\] 이다.
+![](../assets/array_ops/mirrorpad2.png)※input의 shape가 \[2\]\[3\], 값이 \[\[1,2,3\]\[4,5,6\]\]이고, paddings가 \[2\]\[2\]에 \[\[0,0\]\[2,2\]\], mode가 "SYMMETRIC"일 때 결과는 \[\[2,1,1,2,3,3,2\]\[5,4,4,5,6,6,5\]\]이다. mode가 "REFLECT"일 때 결과는 \[\[3,2,1,2,3,2,1\]\[6,5,4,5,6,5,4\]\] 이다.
 
 ※paddings에 들어가는 값은 \[D\]\[0\]은 input에 들어있는 값의 앞에 들어가는 padding값 이고\(input이 \[1,2,3\]이고, padding이 \[2,0\], mode 가 SYMMETRIC일 때 값은 \[2,1,1,2,3\]이다. mode가 REFLECT라면 \[3,2,1,2,3\]이다.\), \[D\]\[1\]은 input에 들어있는 값의 뒤에 들어가는 padding값이다\(input이 \[1,2,3\]이고, padding이 \[0,2\], mode 가 SYMMETRIC일 때 값은 \[1,2,3,3,2\]이다. mode가 REFLECT라면 \[1,2,3,2,1\]이다.\).
 

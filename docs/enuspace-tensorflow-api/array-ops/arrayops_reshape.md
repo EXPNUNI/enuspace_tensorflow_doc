@@ -91,7 +91,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/reshape1.png)
+![](../assets/array_ops/reshape1.png)
 
 Argument:
 
@@ -111,6 +111,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/reshape2.png)※ tensor의 벡터 데이터를 shape에 넣어주는 기능을 한다.  
+![](../assets/array_ops/reshape2.png)※ tensor의 벡터 데이터를 shape에 넣어주는 기능을 한다.  
 ※ tensor 핀으로 들어오는 input tensor의 value갯수와 shape로 들어오는 공간의 갯수가 일치해야 결과값이 나온다.
 

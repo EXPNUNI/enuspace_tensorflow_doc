@@ -73,7 +73,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/depthtospace1.png)
+![](../assets/array_ops/depthtospace1.png)
 
 Argument:
 
@@ -93,7 +93,7 @@ Result:
 
 ## Using Method {#using-method}
 
-##### ![](./assets/array_ops/depthtospace2.png)
+##### ![](../assets/array_ops/depthtospace2.png)
 
 ※ input의 shape에서 batch가 아닌 depth를 조절하는 기능을 한다. BatchToSpace와 비슷하게 동작하지만 역할은 다르다.
 

@@ -32,7 +32,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/broadcastdynamicshape1.png)
+![](../assets/array_ops/broadcastdynamicshape1.png)
 
 Argument:
 
@@ -52,7 +52,7 @@ Result:
 
 ## Using Method {#using-method}
 
-![](./assets/array_ops/broadcastdynamicshape2.png)
+![](../assets/array_ops/broadcastdynamicshape2.png)
 
 ※ broadcast를 이용하는 기능으로 shape를 재구성 하는 역할을 한다. Array\_ops의 Shape 기능에서 shape를 뽑아낸 후 같은 차원인 두 개의 shape를 동일 하게 만들고, Array\_ops의 ReShape 기능으로 shape를 조정하는 방식으로 쓰인다.
 

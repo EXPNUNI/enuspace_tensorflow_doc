@@ -40,7 +40,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/slice1.png)
+![](../assets/array_ops/slice1.png)
 
 Argument:
 
@@ -61,7 +61,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/slice2.png)※ input으로 들어온 tensor를 자르는 기능을 하는 블럭이다.  
+![](../assets/array_ops/slice2.png)※ input으로 들어온 tensor를 자르는 기능을 하는 블럭이다.  
 ※ begin과 size는 input의 rank만큼의 1-D tensor이다.  
 ※ begin은 input각 rank의 시작 지점을 정한다.  
 ※ size는 begin으로 부터 얼마만큼 자를 것인가를 정하는 값이다. \(begin\[1\].value + size\[1\].value &lt;= input\[ 1-rank \].size\)

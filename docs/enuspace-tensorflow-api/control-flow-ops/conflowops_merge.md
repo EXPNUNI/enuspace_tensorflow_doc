@@ -40,7 +40,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_control\_flow\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_control_flow_ops.cpp)
 
-![](./assets/tf_control_flow_ops/merge1.png)![](/assets/control_flow_ops/merge1.png)
+![](../assets/tf_control_flow_ops/merge1.png)![](../assets/control_flow_ops/merge1.png)
 
 Argument:
 
@@ -56,5 +56,5 @@ Return:
 
 ## Using Method {#using-method}
 
-![](/assets/control_flow_ops/loopcond2.png)![](/assets/control_flow_ops/loopcond3.png)※ inputs으로 들어온 inputlist에서 사용 할 수 있는 tensor를 output으로 내보내는 역할을 한다. 위 화면에서 switch값이 11이 되면 value\_index가 0\(리스트에서 첫번째로 들어오는 값이 나오게된다. switch의 output\_false값\)이 된다. 
+![](../assets/control_flow_ops/loopcond2.png)![](../assets/control_flow_ops/loopcond3.png)※ inputs으로 들어온 inputlist에서 사용 할 수 있는 tensor를 output으로 내보내는 역할을 한다. 위 화면에서 switch값이 11이 되면 value\_index가 0\(리스트에서 첫번째로 들어오는 값이 나오게된다. switch의 output\_false값\)이 된다. 
 

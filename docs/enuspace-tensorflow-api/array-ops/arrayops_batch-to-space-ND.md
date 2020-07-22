@@ -81,7 +81,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/batchtospacend1.png)
+![](../assets/array_ops/batchtospacend1.png)
 
 Argument:
 
@@ -102,5 +102,5 @@ Result:
 
 ## Using Method {#using-method}
 
-![](./assets/array_ops/batchtospacend2.png)※ N차원의 input 을 재배치하는 기능을 한다. [BatchToSpace](https://www.gitbook.com/book/expnuni/enuspacetensorflow/edit#)와 다른점은 crops로 input을 잘라낼 수 있다.
+![](../assets/array_ops/batchtospacend2.png)※ N차원의 input 을 재배치하는 기능을 한다. [BatchToSpace](https://www.gitbook.com/book/expnuni/enuspacetensorflow/edit#)와 다른점은 crops로 input을 잘라낼 수 있다.
 

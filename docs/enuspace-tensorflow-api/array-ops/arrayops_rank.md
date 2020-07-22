@@ -46,7 +46,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/rank1.png)
+![](../assets/array_ops/rank1.png)
 
 Argument:
 
@@ -65,7 +65,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/rank2.png)![](./assets/array_ops/rank3.png)※input으로 들어온 tensor의 rank를 계산한다.
+![](../assets/array_ops/rank2.png)![](../assets/array_ops/rank3.png)※input으로 들어온 tensor의 rank를 계산한다.
 
 
 

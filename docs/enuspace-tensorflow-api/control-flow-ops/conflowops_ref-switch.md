@@ -41,7 +41,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_control\_flow\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_control_flow_ops.cpp)
 
-![](./assets/tf_control_flow_ops/refswitch1.png)![](/assets/control_flow_ops/refswitch1.png)
+![](../assets/tf_control_flow_ops/refswitch1.png)![](../assets/control_flow_ops/refswitch1.png)
 
 Argument:
 
@@ -58,5 +58,5 @@ Returns:
 
 ## Using Method {#using-method}
 
-![](./assets/control_flow_ops/refswitch2.png)※ switch의 ref버전 이다. data에 레퍼런스 타입의 tensor를 입력한다는 점만 다르고 나머지 사용법은 동일하다.
+![](../assets/control_flow_ops/refswitch2.png)※ switch의 ref버전 이다. data에 레퍼런스 타입의 tensor를 입력한다는 점만 다르고 나머지 사용법은 동일하다.
 

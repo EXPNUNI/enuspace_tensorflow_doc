@@ -123,7 +123,7 @@ const Tensor & tensor() const
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/input1.png)
+![](../assets/core/input1.png)
 
 Argument:
 
@@ -139,7 +139,7 @@ Output:
 
 ## UsingMethod
 
-![](./assets/core/input2.png)※ Input 블럭에 dtype을 DT\_INT32로 동일하게 설정하고, Init Value 부분에 각각\(위에서 부터\) 5와 7을 넣어주고 실행한 뒤  Add블럭의 result\_z부분에 결과 값이 나온 화면
+![](../assets/core/input2.png)※ Input 블럭에 dtype을 DT\_INT32로 동일하게 설정하고, Init Value 부분에 각각\(위에서 부터\) 5와 7을 넣어주고 실행한 뒤  Add블럭의 result\_z부분에 결과 값이 나온 화면
 
-![](./assets/core/input3.png)※ Input 블럭에 dtype을 DT\_INT32로 동일하게 설정하고, Init Value 부분에 각각 python에서 쓰는 shape 형태로\(위에서 부터\) {5, 3}와 {7, 1}을 넣어주고 실행한 뒤  Add블럭의 result\_z부분에 결과 값이 나온 화면
+![](../assets/core/input3.png)※ Input 블럭에 dtype을 DT\_INT32로 동일하게 설정하고, Init Value 부분에 각각 python에서 쓰는 shape 형태로\(위에서 부터\) {5, 3}와 {7, 1}을 넣어주고 실행한 뒤  Add블럭의 result\_z부분에 결과 값이 나온 화면
 

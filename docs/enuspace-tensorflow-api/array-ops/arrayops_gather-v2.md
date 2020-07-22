@@ -51,7 +51,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/gatherv2_1.png)
+![](../assets/array_ops/gatherv2_1.png)
 
 Argument:
 
@@ -72,8 +72,8 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/gatherv2_2.png)![](./assets/array_ops/gatherV2설명.png)  
+![](../assets/array_ops/gatherv2_2.png)![](../assets/array_ops/gatherV2설명.png)  
 ※ axis로 차원을 선택하고, indices의 index값으로 해당하는 값을 가져오는 방식은 비슷하다. axis값의 차원에 indices의 인덱스 값에 해당하는 값을 가져온다.
 
-![](./assets/array_ops/gatherv2_3.png)※ 위와 동일한 환경에서 indices의 값만 \[0,0\] 으로 바꾸면 위와 같은 그림이 나온다.
+![](../assets/array_ops/gatherv2_3.png)※ 위와 동일한 환경에서 indices의 값만 \[0,0\] 으로 바꾸면 위와 같은 그림이 나온다.
 

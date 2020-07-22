@@ -37,7 +37,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/split1.png)
+![](../assets/array_ops/split1.png)
 
 Argument:
 
@@ -58,5 +58,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/split2.png)※ axis의 값에 해당하는 차원을 num\_split의 값만큼 나눈다. 즉 num\_split은 해당하는 차원의 값의 갯수를 나눠서 0으로 떨어지는 값만 넣을 수 있다. \(ex: 해당하는 차원의 값의 갯수가 6개 일 때 num\_split에 올수 있는 수는 1, 2, 3, 6 이다.\)
+![](../assets/array_ops/split2.png)※ axis의 값에 해당하는 차원을 num\_split의 값만큼 나눈다. 즉 num\_split은 해당하는 차원의 값의 갯수를 나눠서 0으로 떨어지는 값만 넣을 수 있다. \(ex: 해당하는 차원의 값의 갯수가 6개 일 때 num\_split에 올수 있는 수는 1, 2, 3, 6 이다.\)
 

@@ -42,7 +42,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_control\_flow\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_control_flow_ops.cpp)
 
-![](./assets/tf_control_flow_ops/abort1.png)![](/assets/control_flow_ops/abort1.png)
+![](../assets/tf_control_flow_ops/abort1.png)![](../assets/control_flow_ops/abort1.png)
 
 Argument:
 

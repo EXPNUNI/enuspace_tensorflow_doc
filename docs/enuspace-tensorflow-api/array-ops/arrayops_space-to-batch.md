@@ -99,7 +99,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/spacetobatch1.png)
+![](../assets/array_ops/spacetobatch1.png)
 
 Argument:
 
@@ -120,6 +120,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/spacetobatch2.png)  
+![](../assets/array_ops/spacetobatch2.png)  
 ※ [BatchToSpace](https://www.tensorflow.org/api_docs/cc/class/tensorflow/ops/batch-to-space.html#classtensorflow_1_1ops_1_1_batch_to_space)와 반대되는 기능을 한다. input을 재정렬하며 input의 마지막 차원은 shape의 크기가 변하지 않는다.
 

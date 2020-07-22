@@ -42,7 +42,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/shape1.png)
+![](../assets/array_ops/shape1.png)
 
 Argument:
 
@@ -63,5 +63,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/shape2.png)※ input으로 들어온 tensor의 shape를 뽑아낸다.
+![](../assets/array_ops/shape2.png)※ input으로 들어온 tensor의 shape를 뽑아낸다.
 

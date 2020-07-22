@@ -50,7 +50,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/parallelconcat1.png)
+![](../assets/array_ops/parallelconcat1.png)
 
 Argument:
 
@@ -70,6 +70,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/parallelconcat2.png)  
+![](../assets/array_ops/parallelconcat2.png)  
 ※ values로 들어온 inputlist의 값을 모두 합치는 기능을 한다. inputlist의 input들은 shape가 모두 같아야하고, 1차원의 크기가 1이어야 한다. shape는 values의 input들과 shape가 같지만 1차원의 크기는 바꿔서 지정할 수 있다. 이때 들어오는 inputlist의 갯수보다 1차원의 크기가 크다면 나머지는 모두 0으로 채워진다. 
 

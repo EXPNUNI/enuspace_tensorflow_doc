@@ -41,7 +41,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_control\_flow\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_control_flow_ops.cpp)
 
-![](./assets/tf_control_flow_ops/switch1.png)![](/assets/control_flow_ops/switch1.png)
+![](../assets/tf_control_flow_ops/switch1.png)![](../assets/control_flow_ops/switch1.png)
 
 Argument:
 
@@ -58,5 +58,5 @@ Returns:
 
 ## Using Method {#using-method}
 
-![](/assets/control_flow_ops/loopcond2.png)![](/assets/control_flow_ops/loopcond3.png)※ merge와 조합하여 output\_false나 output\_true값 중 하나로 나갈 수 있기 때문에 위 화면처럼 분기점 용도로 사용할 수 있다. 
+![](../assets/control_flow_ops/loopcond2.png)![](../assets/control_flow_ops/loopcond3.png)※ merge와 조합하여 output\_false나 output\_true값 중 하나로 나갈 수 있기 때문에 위 화면처럼 분기점 용도로 사용할 수 있다. 
 

@@ -37,7 +37,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_control\_flow\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_control_flow_ops.cpp)
 
-![](./assets/tf_control_flow_ops/loopcond1.png)![](/assets/control_flow_ops/loopcond1.png)
+![](../assets/tf_control_flow_ops/loopcond1.png)![](../assets/control_flow_ops/loopcond1.png)
 
 Argument:
 
@@ -52,5 +52,5 @@ Return:
 
 ## Using Method
 
-![](/assets/control_flow_ops/loopcond2.png)※ loopcond는 bool타입의 tensor를 받아서 output으로 내보내고, switch블록\(또는 refswitch\)에 사용 된다.
+![](../assets/control_flow_ops/loopcond2.png)※ loopcond는 bool타입의 tensor를 받아서 output으로 내보내고, switch블록\(또는 refswitch\)에 사용 된다.
 

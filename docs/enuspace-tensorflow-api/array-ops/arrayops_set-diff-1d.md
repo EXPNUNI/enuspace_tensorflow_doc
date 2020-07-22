@@ -49,7 +49,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/setdiff1d1.png)
+![](../assets/array_ops/setdiff1d1.png)
 
 Argument:
 
@@ -73,6 +73,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/setdiff1d2.png)  
+![](../assets/array_ops/setdiff1d2.png)  
 ※ x의 value에서 y에 있는 value와 같은 값을 지워버린다. out은 y에 해당하는 값을 지우고 남은 x이고,  idx는 남아있는 x값이 y에 의해 지워지기 전의 index값을 나열한 것이다.
 

@@ -46,7 +46,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/unique1.png)
+![](../assets/array_ops/unique1.png)
 
 Argument:
 
@@ -69,6 +69,6 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/unique2.png)  
+![](../assets/array_ops/unique2.png)  
 ※ 중복되는 값을 모두 빼고, 유일한 값들만 남기는 기능을 한다. 결과값 y는 유니크한 값을 모아놓은 tensor이고, idx는 x에서 각각의 해당하는 값이 y에서 몇 번째 index인지 알려주는 역할을 한다. attrs의 out\_idx는 idx의 데이터 타입을 지정한다.
 

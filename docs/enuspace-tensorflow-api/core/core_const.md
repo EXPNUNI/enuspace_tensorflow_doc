@@ -20,7 +20,7 @@ Create output using tensor and scope.
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/const1.png)
+![](../assets/core/const1.png)
 
 Argument:
 
@@ -35,5 +35,5 @@ Output:
 
 ## UsingMethod
 
-![](./assets/array_ops/batchtospacend2.png)※ Const블럭은 output을 내보내기 때문에 여러곳에 쓰인다.
+![](../assets/array_ops/batchtospacend2.png)※ Const블럭은 output을 내보내기 때문에 여러곳에 쓰인다.
 

@@ -33,7 +33,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/checknumerics1.png)
+![](../assets/array_ops/checknumerics1.png)
 
 Argument:
 
@@ -53,5 +53,5 @@ Result:
 
 ## Using Method {#using-method}
 
-![](./assets/array_ops/checknumerics2.png)※ NaN과 Inf를 검출 하는데 쓰이는 기능이다.
+![](../assets/array_ops/checknumerics2.png)※ NaN과 Inf를 검출 하는데 쓰이는 기능이다.
 

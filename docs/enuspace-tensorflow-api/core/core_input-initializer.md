@@ -28,7 +28,7 @@ R [Initializer](https://www.tensorflow.org/api_docs/cc/struct/tensorflow/input/i
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_core.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_core.cpp)
 
-![](./assets/core/Input_initializer1.png)
+![](../assets/core/Input_initializer1.png)
 
 Argument:
 
@@ -42,7 +42,7 @@ Output:
 
 ## UsingMethod
 
-![](./assets/array_ops/placeholder2.png)※input\_initializer에서 tensor를 직접 생성하여 placeholder를 사용하는 경우
+![](../assets/array_ops/placeholder2.png)※input\_initializer에서 tensor를 직접 생성하여 placeholder를 사용하는 경우
 
-![](./assets/array_ops/placeholder3.png)※tensor 블록을 이용하여 placeholder를 사용하는 경우
+![](../assets/array_ops/placeholder3.png)※tensor 블록을 이용하여 placeholder를 사용하는 경우
 

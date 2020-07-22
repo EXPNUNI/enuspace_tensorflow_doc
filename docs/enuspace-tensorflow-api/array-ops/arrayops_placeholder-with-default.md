@@ -36,7 +36,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/placeholderwithdefault1.png)
+![](../assets/array_ops/placeholderwithdefault1.png)
 
 Argument:
 
@@ -56,5 +56,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/placeholderwithdefault2.png)※ placeholder에 input값을 넣어서 feedtype블럭을 사용하지 않고도 초기화를 할 수 있다. 다른 연산에서 나온 output값을 input에 연결하여 다른 블럭들에 사용 할 수 있다.
+![](../assets/array_ops/placeholderwithdefault2.png)※ placeholder에 input값을 넣어서 feedtype블럭을 사용하지 않고도 초기화를 할 수 있다. 다른 연산에서 나온 output값을 input에 연결하여 다른 블럭들에 사용 할 수 있다.
 

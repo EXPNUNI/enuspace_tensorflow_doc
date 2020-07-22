@@ -36,7 +36,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_control\_flow\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_control_flow_ops.cpp)
 
-![](./assets/tf_control_flow_ops/refselect1.png)![](/assets/control_flow_ops/refselect1.png)
+![](../assets/tf_control_flow_ops/refselect1.png)![](../assets/control_flow_ops/refselect1.png)
 
 Argument:
 
@@ -52,5 +52,5 @@ Returns:
 
 ## Using Method {#using-method}
 
-![](./assets/control_flow_ops/refselect2.png)※ refselect는 레퍼런스 타입 이므로 assign같은 레퍼런스 타입을 output으로 보내는 변수를 리스트에서 뽑아내는데 유용하다.
+![](../assets/control_flow_ops/refselect2.png)※ refselect는 레퍼런스 타입 이므로 assign같은 레퍼런스 타입을 output으로 보내는 변수를 리스트에서 뽑아내는데 유용하다.
 

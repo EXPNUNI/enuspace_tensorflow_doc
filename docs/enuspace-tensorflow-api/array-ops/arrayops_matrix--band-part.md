@@ -59,7 +59,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/matrixbandpart1.png)
+![](../assets/array_ops/matrixbandpart1.png)
 
 Argument:
 
@@ -78,10 +78,10 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/matrixbandpartblock2.png)![](./assets/array_ops/matrix_band_part설명.png)  
+![](../assets/array_ops/matrixbandpartblock2.png)![](../assets/array_ops/matrix_band_part설명.png)  
 ※ 위의 그림과 같이 output에 그어놓은 빨간색 선을 기준으로 위쪽 줄\(num\_upper\)을 또는 아래쪽 줄\(num\_lower\)을 몇번째 까지 표시 할지 정하는 기능을 한다.
 
-![](./assets/array_ops/matrixbandpart3.png)※ 위 그림을 표현하면  8   1   0   0  이 된다. 즉 아래로 2줄 위로 1줄을 남기고 나머지는 0으로 만든다는 뜻  
+![](../assets/array_ops/matrixbandpart3.png)※ 위 그림을 표현하면  8   1   0   0  이 된다. 즉 아래로 2줄 위로 1줄을 남기고 나머지는 0으로 만든다는 뜻  
                                       -1  9   1   0  
                                       -2 -1  10  0  
                                        0 -2  -1  11

@@ -41,7 +41,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/placeholder1.png)
+![](../assets/array_ops/placeholder1.png)
 
 Argument:
 
@@ -62,7 +62,7 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/placeholder2.png)※input\_initializer에서 tensor를 직접 생성하여 placeholder를 사용하는 경우
+![](../assets/array_ops/placeholder2.png)※input\_initializer에서 tensor를 직접 생성하여 placeholder를 사용하는 경우
 
-![](./assets/array_ops/placeholder3.png)※tensor 블록을 이용하여 placeholder를 사용하는 경우
+![](../assets/array_ops/placeholder3.png)※tensor 블록을 이용하여 placeholder를 사용하는 경우
 

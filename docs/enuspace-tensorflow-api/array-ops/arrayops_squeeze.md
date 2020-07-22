@@ -53,7 +53,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/squeeze1.png)
+![](../assets/array_ops/squeeze1.png)
 
 Argument:
 
@@ -74,5 +74,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/squeeze2.png)![](./assets/array_ops/squeeze3.png)※ input에 들어온 tensor의 shape중에서 각 차원의 사이즈가 1인 것들을 제거하는 기능을 한다. attrs의 squeeze\_dims는 size가 1인 차원을 선택해서 제거할 수 있도록 해준다. \( squeeze\_dims에 들어가는 값은 index 값이다. ex: 1-D를 선택 하려면 0, 4-D를 선택하려면 3을 입력하면 된다.\)
+![](../assets/array_ops/squeeze2.png)![](../assets/array_ops/squeeze3.png)※ input에 들어온 tensor의 shape중에서 각 차원의 사이즈가 1인 것들을 제거하는 기능을 한다. attrs의 squeeze\_dims는 size가 1인 차원을 선택해서 제거할 수 있도록 해준다. \( squeeze\_dims에 들어가는 값은 index 값이다. ex: 1-D를 선택 하려면 0, 4-D를 선택하려면 3을 입력하면 된다.\)
 

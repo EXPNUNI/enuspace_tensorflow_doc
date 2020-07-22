@@ -46,7 +46,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/fill1.png)
+![](../assets/array_ops/fill1.png)
 
 Argument:
 
@@ -66,5 +66,5 @@ Result:
 
 ## Using Method {#using-method}
 
-![](./assets/array_ops/fill2.png)※ dims의 shape에 value의 값을 넣어서 tensor를 만든다. output의 모든 값은 value의 값으로 채워진다.
+![](../assets/array_ops/fill2.png)※ dims의 shape에 value의 값을 넣어서 tensor를 만든다. output의 모든 값은 value의 값으로 채워진다.
 

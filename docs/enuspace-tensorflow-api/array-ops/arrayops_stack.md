@@ -55,7 +55,7 @@ Returns:
 
 Source link :[https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_array\_ops.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_math.cpp)
 
-![](./assets/array_ops/stack1.png)
+![](../assets/array_ops/stack1.png)
 
 Argument:
 
@@ -76,5 +76,5 @@ Result:
 
 ## Using Method
 
-![](./assets/array_ops/stack2.png)※ list로 들어오는 tensor를 합쳐주는 기능을 한다. axis는 합칠 차원을 선택하는 역할을 한다.
+![](../assets/array_ops/stack2.png)※ list로 들어오는 tensor를 합쳐주는 기능을 한다. axis는 합칠 차원을 선택하는 역할을 한다.
 
