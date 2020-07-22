@@ -31,7 +31,7 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 #### Train Model
 
-훈련 모델![](./enuspace-tensorflow-tutorial/assets/enuspace-tensorflow-mnist-train.png)
+훈련 모델![](./assets/enuspace-tensorflow-mnist-train.png)
 
 #### Evaluation Model
 
