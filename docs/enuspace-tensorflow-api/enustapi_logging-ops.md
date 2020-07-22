@@ -18,5 +18,5 @@ Logging Ops symbol block
 
 ![](./assets/tf_logging_ops_symbols.png)
 
-Using Symbol block![](./assets/logging_ops/loggpin_ops_main.png)
+Using Symbol block![](./assets/loggpin_ops_main.png)
 
