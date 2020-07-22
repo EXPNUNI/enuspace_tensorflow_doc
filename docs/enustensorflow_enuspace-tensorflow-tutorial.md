@@ -13,7 +13,7 @@ last_modified_date: now
 
 github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/basic)
 
-[![](/assets/tutorial/basic.png)](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/basic)
+[![](./enuspace-tensorflow-tutorial/assets/tutorial/basic.png)](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/basic)
 
 ---
 
@@ -21,7 +21,7 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/gradient_descent)
 
-![](./assets/tutorial/gradient_descent_multi.png)
+![](./enuspace-tensorflow-tutorial/assets/tutorial/gradient_descent_multi.png)
 
 ---
 
@@ -31,7 +31,7 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 #### Train Model
 
-훈련 모델![](./assets/enuspace-tensorflow-mnist-train.png)
+훈련 모델![](./enuspace-tensorflow-tutorial/assets/enuspace-tensorflow-mnist-train.png)
 
 #### Evaluation Model
 
@@ -43,5 +43,5 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/xor)
 
-![](./assets/tutorial/xor_runtime.png)
+![](./enuspace-tensorflow-tutorial/assets/tutorial/xor_runtime.png)
 
