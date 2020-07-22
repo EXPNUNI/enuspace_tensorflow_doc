@@ -10,7 +10,7 @@ last_modified_date: now
 
 # enuSpace-Tensorflow API
 
-![](/./assets/enuSpaceTensorflow_plugin.png)
+![](../assets/enuSpaceTensorflow_plugin.png)
 
 enuSpaceTensorflow 블럭\(block\)은 tensorflow C++ 멤버의 그래픽적인 인터페이스 기능을 제공합니다. tensorflow의 C++ API와 동일한 기능을 수행하거나, 확장된 형태로 제공됩니다.
 
@@ -18,7 +18,7 @@ tensorflow overview : [https://www.tensorflow.org/api\_docs/cc/](https://www.ten
 
 ## array\_ops
 
-![](/./assets/tf_array_ops_symbols1.png)![](./assets/tf_array_ops_symbols2.png)![](./assets/tf_array_ops_symbols3.png)![](./assets/tf_array_ops_symbols4.png)
+![](./assets/tf_array_ops_symbols1.png)![](./assets/tf_array_ops_symbols2.png)![](./assets/tf_array_ops_symbols3.png)![](./assets/tf_array_ops_symbols4.png)
 
 ## candidate\_sampling\_ops
 
