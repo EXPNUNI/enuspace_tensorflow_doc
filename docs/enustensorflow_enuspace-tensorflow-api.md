@@ -18,7 +18,7 @@ tensorflow overview : [https://www.tensorflow.org/api\_docs/cc/](https://www.ten
 
 ## array\_ops
 
-![](../assets/tf_array_ops_symbols1.png)![](./assets/tf_array_ops_symbols2.png)![](./assets/tf_array_ops_symbols3.png)![](./assets/tf_array_ops_symbols4.png)
+![](.../assets/tf_array_ops_symbols1.png)![](./assets/tf_array_ops_symbols2.png)![](./assets/tf_array_ops_symbols3.png)![](./assets/tf_array_ops_symbols4.png)
 
 ## candidate\_sampling\_ops
 
