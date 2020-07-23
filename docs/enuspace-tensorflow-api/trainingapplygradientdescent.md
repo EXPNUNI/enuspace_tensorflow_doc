@@ -63,5 +63,5 @@ Result:
 
 ## Using Method
 
-![](./assets/tutorial/gradient-descent2.png)
+![](../assets/tutorial/gradient-descent2.png)
 
