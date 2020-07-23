@@ -63,5 +63,5 @@ Result:
 
 ## Using Method
 
-![](./enuspace-tensorflow-tutorial/assets/tutorial/gradient-descent2.png)
+![](../enuspace-tensorflow-tutorial/assets/tutorial/gradient-descent2.png)
 
