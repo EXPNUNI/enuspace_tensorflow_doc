@@ -67,7 +67,7 @@ Returns :
 
 Source link : [https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_string.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_string.cpp)
 
-![](./assets/string_op/ReduceJoin1.jpg)![](./assets/string_op/ReduceJoin1.jpg)
+![](./assets/string_op/ReduceJoin1.jpg)![](./assets/string_op/ReduceJoin2.jpg)
 
 Argument:
 
