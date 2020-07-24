@@ -36,7 +36,7 @@ Returns:
 
 Source link : [https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf\_state.cpp](https://github.com/EXPNUNI/enuSpaceTensorflow/blob/master/enuSpaceTensorflow/tf_state.cpp)
 
-![](./assets/state_op/CountUpTo1.jpg)
+![](./assets/string_op/CountUpTo1.jpg)
 
 Argument:
 
@@ -56,7 +56,7 @@ Result:
 
 ## Using Method
 
-## ![](./assets/state_op/CountUpTo2.jpg)
+## ![](./assets/string_op/CountUpTo2.jpg)
 
 
 
