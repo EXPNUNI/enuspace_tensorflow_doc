@@ -19,7 +19,7 @@ enuSpaceTensorflow github : [https://github.com/EXPNUNI/enuSpaceTensorflow](http
 
 enuSpace blog : [http://enuspace.tistory.com/](http://enuspace.tistory.com/)
 
-enuSpace gitbook \(guide\) : [https://expnuni.gitbooks.io/enuspace/](https://expnuni.gitbooks.io/enuspace/)
+enuSpace github-pages \(guide\) : [https://expnuni.github.io/enuspace_doc/](https://expnuni.github.io/enuspace_doc/)
 
 tensorflow의 C++ 코드. [Tensorflow C++ API Guide](https://www.tensorflow.org/api_guides/cc/guide)
 
