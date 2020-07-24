@@ -52,5 +52,5 @@ Return:
 
 ## Using Method {#using-method}
 
-※ placeholder를 초기화 시키기 위한 trigger이지만 core 블럭 중에 [FeedType](https://expnuni.gitbooks.io/enuspacetensorflow/content/core/feedtype.html)이 대신 하므로 사용하지 않는다.
+※ placeholder를 초기화 시키기 위한 trigger이지만 core 블럭 중에 [FeedType](https://expnuni.github.io/enuspace_tensorflow_doc/docs/enuspace-tensorflow-api/core_feedtype/)이 대신 하므로 사용하지 않는다.
 
