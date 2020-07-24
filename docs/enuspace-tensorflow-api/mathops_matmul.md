@@ -72,5 +72,6 @@ Result:
 
 ## Using Method
 
-![](./assets/math_MatMul_Method.png)
+![](./assets/math_Matmul_Method.png)
+
 
