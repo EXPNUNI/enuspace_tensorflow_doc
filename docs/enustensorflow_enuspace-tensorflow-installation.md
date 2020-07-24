@@ -10,7 +10,7 @@ last_modified_date: now
 
 enuSpace의 plugin tensorflow에 대한 설치방법에 대하여 설명합니다.
 
-참조 : [https://expnuni.gitbooks.io/enuspace/content/enuspace-plugin.html](https://expnuni.gitbooks.io/enuspace/content/enuspace-plugin.html)
+참조 : [https://expnuni.github.io/enuspace_doc/docs/enuspace_plugin/](https://expnuni.github.io/enuspace_doc/docs/enuspace_plugin/)
 
 ---
 

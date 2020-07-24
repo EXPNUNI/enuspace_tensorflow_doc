@@ -17,7 +17,7 @@ github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/ma
 
 ---
 
-### [**Gradient Descent 알고리즘 구현**](https://expnuni.gitbooks.io/enuspacetensorflow/content/tutorial/gradient-descent.html)
+### [**Gradient Descent 알고리즘 구현**](https://expnuni.github.io/enuspace_tensorflow_doc/docs/enuspace-tensorflow-tutorial/enusttutorial_gradient-descent/)
 
 github : [model download](https://github.com/EXPNUNI/enuSpace-Tensorflow/tree/master/samples/model_samples/gradient_descent)
 
