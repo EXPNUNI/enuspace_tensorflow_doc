@@ -64,5 +64,5 @@ Result:
 
 ## Using Method
 
-![](./assets/sparse_op/SparseAddGrad2.jpg)\*SparseAdd 노드 생성방법은 [SparseAdd] https://expnuni.github.io/enuspace_tensorflow_doc/docs/enuspace-tensorflow-api/sparseops_sparseadd/ 페이지에 기재되어 있음.
+![](./assets/sparse_op/SparseAddGrad2.jpg)\*SparseAdd 노드 생성방법은 [SparseAdd](https://expnuni.github.io/enuspace_tensorflow_doc/docs/enuspace-tensorflow-api/sparseops_sparseadd) 페이지에 기재되어 있음.
 
