@@ -72,5 +72,6 @@ Result:
 
 ## Using Method
 
-![](../enuspace-tensorflow-api/assets/math_MatMul_Method.png)
+![](../enuspace-tensorflow-api/assets/math_Matmul_Method.png)
+
 
